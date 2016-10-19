@@ -1,3 +1,5 @@
+DES
+
 Implementasi DES untuk tugas Keamanan Jaringan dan Kriptografi ILKOMP UGM 2016
 
 initTable() : Memasukan nilai - nilai indeks permutasi ke dalam array-array dan memasukkan nilai jumlah left shift sesuai left shift schedule ke dalam array. Indeks permutasi dan jumlah left shift mengacu pada standar Algoritma DES, dan berada pada file bernama file.in
